@@ -1,0 +1,16 @@
+psp_name,total_volume_mn,approved_pct,business_decline_pct,technical_decline_pct,month,side,technical_failed_mn,business_failed_mn,approved_volume_mn
+Axis Bank Ltd.,7903.1,93.6,6.27,0.13,2025-08,payer,10.274,495.5244,7397.3016
+Yes Bank Ltd.,5841.35,90.97,8.94,0.1,2025-08,payer,5.8414,522.2167,5313.8761
+ICICI Bank Ltd.,3880.13,92.61,7.27,0.12,2025-08,payer,4.6562,282.0855,3593.3884
+HDFC Bank Ltd.,1957.3,94.28,5.64,0.08,2025-08,payer,1.5658,110.3917,1845.3424
+State Bank of India,1433.43,94.47,5.36,0.16,2025-08,payer,2.2935,76.8318,1354.1613
+Tri O Tech Solutions Private Limited,134.92,100.0,0.0,0.0,2025-08,payer,0.0,0.0,134.92
+BHIM,113.93,95.28,4.54,0.18,2025-08,payer,0.2051,5.1724,108.5525
+Kotak Mahindra Bank,72.36,100.0,0.0,0.0,2025-08,payer,0.0,0.0,72.36
+Airtel Payments Bank Limited,22.27,96.3,3.62,0.07,2025-08,payer,0.0156,0.8062,21.446
+North East Small Finance Bank Ltd,21.53,96.8,3.14,0.06,2025-08,payer,0.0129,0.676,20.841
+India Post Payments Bank Limited,19.58,100.0,0.0,0.0,2025-08,payer,0.0,0.0,19.58
+One Mobikwik Systems Limited,18.65,100.0,0.0,0.0,2025-08,payer,0.0,0.0,18.65
+IDFC Bank Ltd.,18.71,99.81,0.19,0.0,2025-08,payer,0.0,0.0355,18.6745
+RBL Bank Ltd.,17.71,98.02,1.91,0.07,2025-08,payer,0.0124,0.3383,17.3593
+Federal Bank Ltd.,9.54,99.02,0.96,0.02,2025-08,payer,0.0019,0.0916,9.4465

@@ -1,0 +1,18 @@
+bank_name,technical_failed_mn,td_failure_share_pct,td_cumulative_share_pct
+Bank Of India,26.1403,30.46,30.46
+State Bank of India,22.5487,26.28,56.74
+Union Bank of India,9.249,10.78,67.52
+India Post Payments Bank Limited,6.2737,7.31,74.83
+ICICI Bank Ltd.,3.9145,4.56,79.4
+Canara Bank,3.4943,4.07,83.47
+Central Bank of India,3.3239,3.87,87.34
+Punjab National Bank,2.1495,2.51,89.85
+Indian Overseas Bank,2.113,2.46,92.31
+Federal Bank Ltd.,1.5719,1.83,94.14
+Kotak Mahindra Bank,1.2716,1.48,95.62
+UCO Bank,1.0505,1.22,96.85
+Indian Bank,0.9154,1.07,97.92
+Airtel Payments Bank Limited,0.7647,0.89,98.81
+Bank of Baroda,0.6848,0.8,99.61
+Axis Bank Ltd.,0.1806,0.21,99.82
+HDFC Bank Ltd.,0.1581,0.18,100.0

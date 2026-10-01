@@ -1,0 +1,11 @@
+bank_name,total_volume_mn,technical_decline_pct,technical_failed_mn,td_rate_rank,td_absolute_rank,priority_quadrant
+Bank Of India,605.1,4.32,26.1403,1,1,ACT_NOW
+State Bank of India,5368.74,0.42,22.5487,8,2,WATCH_SCALE
+Union Bank of India,1233.2,0.75,9.249,4,3,WATCH_SCALE
+India Post Payments Bank Limited,674.59,0.93,6.2737,3,4,WATCH_SCALE
+ICICI Bank Ltd.,752.78,0.52,3.9145,7,5,WATCH_SCALE
+Canara Bank,970.63,0.36,3.4943,10,6,WATCH_SCALE
+Central Bank of India,307.77,1.08,3.3239,2,7,ACT_NOW
+Punjab National Bank,1131.31,0.19,2.1495,11,8,WATCH_SCALE
+Indian Overseas Bank,330.15,0.64,2.113,5,9,WATCH_SCALE
+Federal Bank Ltd.,266.43,0.59,1.5719,6,10,LOWER_PRIORITY

@@ -1,0 +1,16 @@
+psp_name,total_volume_mn,approved_pct,business_decline_pct,technical_decline_pct,month,side,technical_failed_mn,business_failed_mn,approved_volume_mn
+Yes Bank Ltd.,10751.55,91.47,8.41,0.12,2025-08,payee,12.9019,904.2054,9834.4428
+Axis Bank Ltd.,3903.49,94.33,5.56,0.12,2025-08,payee,4.6842,217.034,3682.1621
+ICICI Bank Ltd.,1864.54,93.74,6.13,0.13,2025-08,payee,2.4239,114.2963,1747.8198
+State Bank of India,1467.24,95.02,4.87,0.12,2025-08,payee,1.7607,71.4546,1394.1714
+HDFC Bank Ltd.,1408.32,94.06,5.84,0.11,2025-08,payee,1.5492,82.2459,1324.6658
+Federal Bank Ltd.,288.22,96.95,2.94,0.11,2025-08,payee,0.317,8.4737,279.4293
+Airtel Payments Bank Limited,230.49,94.28,5.61,0.11,2025-08,payee,0.2535,12.9305,217.306
+Unity Small Finance Bank Limited,145.32,97.01,2.88,0.11,2025-08,payee,0.1599,4.1852,140.9749
+Indusind Bank Ltd.,139.32,93.52,6.37,0.12,2025-08,payee,0.1672,8.8747,130.2921
+RBL Bank Ltd.,98.99,91.99,7.86,0.14,2025-08,payee,0.1386,7.7806,91.0609
+Canara Bank,98.14,97.03,2.88,0.1,2025-08,payee,0.0981,2.8264,95.2252
+Kotak Mahindra Bank,80.84,95.0,4.89,0.11,2025-08,payee,0.0889,3.9531,76.798
+Tri O Tech Solutions Private Limited,64.78,93.98,5.9,0.12,2025-08,payee,0.0777,3.822,60.8802
+One Mobikwik Systems Limited,57.36,96.58,3.32,0.1,2025-08,payee,0.0574,1.9044,55.3983
+Suryoday Small Finance Bank Limited,54.93,91.56,8.31,0.13,2025-08,payee,0.0714,4.5647,50.2939

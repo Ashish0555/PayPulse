@@ -1,0 +1,18 @@
+bank_name,total_volume_mn,approved_pct,business_decline_pct,technical_decline_pct,debit_reversal_count_mn,debit_reversal_success_pct
+State Bank of India,5368.74,93.66,5.92,0.42,14.51,97.89
+HDFC Bank Ltd.,1581.09,95.37,4.63,0.01,3.51,98.73
+Bank of Baroda,1369.53,91.44,8.5,0.05,3.73,99.03
+Union Bank of India,1233.2,92.23,7.02,0.75,4.64,61.93
+Punjab National Bank,1131.31,91.2,8.61,0.19,3.52,97.66
+Kotak Mahindra Bank,978.17,92.39,7.47,0.13,2.46,90.51
+Canara Bank,970.63,92.73,6.92,0.36,2.54,89.02
+Axis Bank Ltd.,902.87,94.96,5.03,0.02,1.77,99.76
+ICICI Bank Ltd.,752.78,95.66,3.82,0.52,2.11,84.15
+India Post Payments Bank Limited,674.59,87.92,11.15,0.93,3.26,74.86
+Indian Bank,653.87,93.05,6.81,0.14,1.35,1.9
+Airtel Payments Bank Limited,637.23,85.83,14.05,0.12,2.61,99.17
+Bank Of India,605.1,88.96,6.72,4.32,5.14,57.77
+Indian Overseas Bank,330.15,92.9,6.47,0.64,1.24,46.6
+Central Bank of India,307.77,91.12,7.81,1.08,1.65,80.86
+UCO Bank,283.93,91.7,7.93,0.37,0.94,85.11
+Federal Bank Ltd.,266.43,93.11,6.3,0.59,0.77,84.27
